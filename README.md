@@ -27,6 +27,8 @@
 
 Artistically an ARTIST, technically a TECHIE & pragmatically a PROGRAMMER. Frontend enthusiast, Graphics lover, and an Android fan❤✌
 
+<hr>
+
 
 **On Personal Stuff:**
 
@@ -35,13 +37,13 @@ Artistically an ARTIST, technically a TECHIE & pragmatically a PROGRAMMER. Front
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platforms 
 
-
-
-**Community**
+**Communities**
 - Angular Kenya
 - Kotlin Kenya
 - GDSC Murang'a University
 - Amigoscode
+
+<hr>
 
 **Languages and Tools:**
 
@@ -57,8 +59,3 @@ Artistically an ARTIST, technically a TECHIE & pragmatically a PROGRAMMER. Front
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">javascript</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png">jquery</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">Wordpress</code>
-
-<hr>
-![Simon's github stats](https://github-readme-stats.vercel.app/api?username=symokevo&show_icons=true&hide_border=true)
-
-
