@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" alt="GIF" src="./callMeSimon.gif" />
 <br/>
 
 <a href="https://twitter.com/sakigo_09">
@@ -19,9 +19,6 @@
 <br />
 
 Artistically an ARTIST, technically a TECHIE & pragmatically a PROGRAMMER. Frontend enthusiast, Graphics lover, and an Android fan❤✌
-
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
