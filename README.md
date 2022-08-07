@@ -6,7 +6,7 @@
 
 <p style="margin:auto">
 
-<a href="https://twitter.com/symokevo">
+<a href="https://twitter.com/codesimonwise">
 <img align="left" alt="Simon Kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
