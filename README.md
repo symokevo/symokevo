@@ -6,15 +6,15 @@
 
 <p style="margin:auto">
 
-<a href="https://twitter.com/codesimonwise">
+<a href="https://twitter.com/codesimonwise" target="_blank">
 <img align="left" alt="Simon Kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/simon-rabuogi-13a5b9134/">
+<a href="https://www.linkedin.com/in/simon-rabuogi-13a5b9134/" target="_blank">
 <img align="left" alt="Simon Rabuogi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/terasofts/">
+<a href="https://www.instagram.com/terasofts/" target="_blank">
 <img align="left" alt="Eskei_justfound" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
