@@ -14,7 +14,7 @@
 <img align="left" alt="Simon Rabuogi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/eskei_justfound/">
+<a href="https://www.instagram.com/terasofts/">
 <img align="left" alt="Eskei_justfound" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </p>
@@ -42,6 +42,10 @@ Artistically an ARTIST, technically a TECHIE & pragmatically a PROGRAMMER. Front
 - Kotlin Kenya
 - GDSC Murang'a University
 - Amigoscode
+- ALX
+- Udacity
+- Andela Kenya
+- Pluralsight
 
 <hr>
 
