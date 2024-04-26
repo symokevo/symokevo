@@ -38,14 +38,13 @@ Artistically an ARTIST, technically a TECHIE & pragmatically a PROGRAMMER. Front
 - 📫 How to reach me: Any of the Social-Media Platforms 
 
 **Communities**
-- Angular Kenya
-- Kotlin Kenya
+- Techlit Africa
 - GDSC Murang'a University
-- Amigoscode
-- ALX
+- ALX Software Engineering
 - Udacity
-- Andela Kenya
 - Pluralsight
+- Nairuby (ARC Chapter)
+- Remote Ruby
 
 <hr>
 
