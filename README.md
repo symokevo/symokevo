@@ -6,11 +6,11 @@
 
 <p style="margin:auto">
 
-<a href="https://twitter.com/codesimonwise" target="_blank">
+<a href="https://twitter.com/aceteasea" target="_blank">
 <img align="left" alt="Simon Kevin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/simon-rabuogi-13a5b9134/" target="_blank">
+<a href="https://www.linkedin.com/in/simon-rabuogi/" target="_blank">
 <img align="left" alt="Simon Rabuogi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -32,7 +32,7 @@ Artistically an ARTIST, technically a TECHIE & pragmatically a PROGRAMMER. Front
 
 **On Personal Stuff:**
 
-- 🌱 I’m currently learning MEAN stack
+- 🌱 I’m currently learning Ruby on Rails
 - 👯 Part of a number of Developer Communities
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platforms 
